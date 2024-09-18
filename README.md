@@ -117,9 +117,9 @@ Disini saya konversi dari GMT ke daerah saat ini saya berada sekarang
 ![](assets/innerRCE/3.jpg)
 `server-app` sebagai hostname
 ![](assets/innerRCE/hostname.jpg)
-4.
+4. Disini saya menemukan isi dari `mintcocsmd`
 ![](assets/innerRCE/SOLVED.jpg)
-Decode dari Base64
+selanjutnya saya decode dari Base64
 ![](assets/innerRCE/4.jpg)
 
 ## 22 Nightmare
