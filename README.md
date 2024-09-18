@@ -1,4 +1,4 @@
-# Jarkom-1-2024-IT24
+# Jarkom-Modul-1-2024-IT24
 
 * Amoes Noland (5027231028)
 * Radella Chesa Syaharani (5027231064)
