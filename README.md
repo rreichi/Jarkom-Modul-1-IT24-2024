@@ -108,6 +108,16 @@
 4. Mendapat angka ASCII (yang saya spasi manual) untuk pada akhirnya menebak warna sweater favorit Mas Aji yang saya terlalu sering lihat (merah)
 ![](assets/mali/3.png)
 
+## innerRCE
+1.
+![](assets/innerRCE/1.jpg)
+2.
+![](assets/innerRCE/2.jpg)
+3.
+![](assets/innerRCE/3.jpg)
+4.
+![](assets/innerRCE/4.jpg)
+
 ## 22 Nightmare
 
 1. Mendapatkan list file yang ada dengan export objects FTP
