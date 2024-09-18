@@ -83,6 +83,9 @@
 1. Saya melihat 'sus' disini
 ![](assets/rizzset/1.jpg)
 2. Setelah masuk kedalam nc 10.15.42.60 59500, saya memasukkan jawaban pertama yaitu `www.its.ac.id`
-3. Pada pertanyaan selanjutnya diminta IP Address pada domain `its.ac.id`
-Disini saya membuat tab terminal baru dan menggunakan `nslookup its.ac.id`, untuk mendapatkan IP
+3. Pada pertanyaan selanjutnya diminta IP Address pada domain `its.ac.id`. Disini saya membuat tab terminal baru dan menggunakan command `nslookup its.ac.id`, untuk mendapatkan IP
 ![](assets/rizzset/2.jpg)
+4. Untuk mendapatkan JARM Fingerprint, gunakan command `python jarm.py its.ac.id` (Sebelumnya harus menginstall jarm terlebih dahulu lalu masuk ke direktori jarm)
+![](assets/rizzset/3.jpg)
+5. Submit lalu dapatkan flagnya!
+![](assets/rizzset/SOLVED.jpg)
