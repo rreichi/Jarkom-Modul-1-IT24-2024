@@ -98,7 +98,7 @@
 3. Pesan tersembunyi dibaca secara terbalik menjadi "pahlawan keamanan siber"
 ![](assets/steg/2.png)
 
-# Malicious Code
+## Malicious Code
 
 1. Mendapatkan jumlah dir listing dengan filter GET php sehingga dapat 52
 2. Terakhir GET adalah /index.php maka berhenti di situ
@@ -107,3 +107,13 @@
 ![](assets/mali/2.png)
 4. Mendapat angka ASCII (yang saya spasi manual) untuk pada akhirnya menebak warna sweater favorit Mas Aji yang saya terlalu sering lihat (merah)
 ![](assets/mali/3.png)
+
+## innerRCE
+1.
+![](assets/innerRCE/1.jpg)
+2.
+![](assets/innerRCE/2.jpg)
+3.
+![](assets/innerRCE/3.jpg)
+4.
+![](assets/innerRCE/4.jpg)
