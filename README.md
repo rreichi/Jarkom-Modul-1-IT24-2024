@@ -109,14 +109,15 @@
 ![](assets/mali/3.png)
 
 ## innerRCE
-1.
+1. Cari stream dimana file berhasil diupload, lihat bagian tanggal dan waktu
 ![](assets/innerRCE/1.jpg)
+Disini saya konversi dari GMT ke daerah saat ini saya berada sekarang
 ![](assets/innerRCE/2.jpg)
-2. /upload.php untuk pathnya
+3. `/upload.php` untuk pathnya
 ![](assets/innerRCE/3.jpg)
 `server-app` sebagai hostname
 ![](assets/innerRCE/hostname.jpg)
-3.
+4.
 ![](assets/innerRCE/SOLVED.jpg)
 Decode dari Base64
 ![](assets/innerRCE/4.jpg)
