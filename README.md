@@ -97,3 +97,13 @@
 2. Mengubah script Python yang diberikan agar mendapatkan pesan tersembunyi dari semua image sekaligus dalam satu run (tidak lupa pip install pillow!)
 3. Pesan tersembunyi dibaca secara terbalik menjadi "pahlawan keamanan siber"
 ![](assets/steg/2.png)
+
+# Malicious Code
+
+1. Mendapatkan jumlah dir listing dengan filter GET php sehingga dapat 52
+2. Terakhir GET adalah /index.php maka berhenti di situ
+![](assets/mali/1.png)
+3. Attempt berhasil dihitung 10 dari bawah dari total 163
+![](assets/mali/2.png)
+4. Mendapat angka ASCII (yang saya spasi manual) untuk pada akhirnya menebak warna sweater favorit Mas Aji yang saya terlalu sering lihat (merah)
+![](assets/mali/3.png)
