@@ -19,6 +19,12 @@
 ![](assets/ez/2.png)
 1. Melihat stream terlihat ada string yang menunjukkan jawaban dan saya mengecek port asal dari string tersebut
 
+## Pegawai Negeri Sebelah
+
+1. Dengan filter mencari password yang diminta, didapatkan sebuah list besar yang bisa saya extract menjadi text.
+2. Saya lakukan grep untuk setiap hal yang diminta dan melihat urutan awal dan akhir
+![](assets/pns/1.png)
+
 ## Illegal Breakthrough
 
 1. Mendapat seluruh detail tentang IP, port, dan endpoint dari Export Objects
