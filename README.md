@@ -89,3 +89,11 @@
 ![](assets/rizzset/3.jpg)
 5. Submit lalu dapatkan flagnya!
 ![](assets/rizzset/SOLVED.jpg)
+
+## Stegography
+
+1. Mendapatkan jumlah file melalui export objects FTP
+![](assets/steg/1.png)
+2. Mengubah script Python yang diberikan agar mendapatkan pesan tersembunyi dari semua image sekaligus dalam satu run (tidak lupa pip install pillow!)
+3. Pesan tersembunyi dibaca secara terbalik menjadi "pahlawan keamanan siber"
+![](assets/steg/2.png)
