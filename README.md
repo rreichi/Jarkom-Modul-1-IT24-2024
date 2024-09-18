@@ -98,7 +98,7 @@
 3. Pesan tersembunyi dibaca secara terbalik menjadi "pahlawan keamanan siber"
 ![](assets/steg/2.png)
 
-# Malicious Code
+## Malicious Code
 
 1. Mendapatkan jumlah dir listing dengan filter GET php sehingga dapat 52
 2. Terakhir GET adalah /index.php maka berhenti di situ
@@ -107,3 +107,14 @@
 ![](assets/mali/2.png)
 4. Mendapat angka ASCII (yang saya spasi manual) untuk pada akhirnya menebak warna sweater favorit Mas Aji yang saya terlalu sering lihat (merah)
 ![](assets/mali/3.png)
+
+## 22 Nightmare
+
+1. Mendapatkan list file yang ada dengan export objects FTP
+2. Save file dan melihat preview gambar
+![](assets/22/1.png)
+3. Melihat angka urutan stream setelah filter untuk "noko.py"
+![](assets/22/2.png)
+4. Berdasarkan clue yang diberikan "noko.py" lakukan decrypt dari input angka binary, dengan XOR key "NUN" (saya ubah jadi hex) yang berasal dari gambar.
+![](assets/22/3.png)
+![](assets/22/4.png)
