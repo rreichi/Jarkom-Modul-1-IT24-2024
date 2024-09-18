@@ -111,14 +111,14 @@
 ## innerRCE
 1.
 ![](assets/innerRCE/1.jpg)
-2.
 ![](assets/innerRCE/2.jpg)
-3.
+2. /upload.php untuk pathnya
 ![](assets/innerRCE/3.jpg)
 `server-app` sebagai hostname
 ![](assets/innerRCE/hostname.jpg)
-4.
+3.
 ![](assets/innerRCE/SOLVED.jpg)
+Decode dari Base64
 ![](assets/innerRCE/4.jpg)
 
 ## 22 Nightmare
