@@ -115,7 +115,10 @@
 ![](assets/innerRCE/2.jpg)
 3.
 ![](assets/innerRCE/3.jpg)
+`server-app` sebagai hostname
+![](assets/innerRCE/hostname.jpg)
 4.
+![](assets/innerRCE/SOLVED.jpg)
 ![](assets/innerRCE/4.jpg)
 
 ## 22 Nightmare
