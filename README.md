@@ -46,3 +46,29 @@
 ![](assets/surprise/2.png)
 3. Melakukan compile dan mendapat string terakhir
 ![](assets/surprise/3.png)
+
+## Corporate Breach
+
+1. Mendapat nama Nakhimov dari filter contains "name"
+2. Mendapat kredensial setelah brute force melihat banyak stream sampai ketemu yang tidak menunjukkan pesan gagal
+![](assets/breach/1.png)
+
+## Gajah Terbang (Server Recon)
+
+1. Menemukan nama database dan portnya melalui melihat packet
+![](assets/gajah1/1.png)
+2. Menemukan berbagai macam informasi mengenai database dan isinya melalui satu stream panjang di bawah
+![](assets/gajah1/2.png)
+3. Melakukan dekripsi MD5 dari password admin
+![](assets/gajah1/3.png)
+
+## Gajah Terbang (Attacker Recon)
+
+1. Mendapatkan nama penyerang dari perintah mengubah id=3 menjadi admin
+![](assets/gajah2/1.png)
+2. Melakukan dekripsi password penyerang
+![](assets/gajah2/2.png)
+3. Menemukan waktu banned dari `SELECT * from banned_users`
+4. Tabel yang dimodif adalah dari query `UPDATE` dan `DELETE`
+5. Melihat barang pembelian dan jumlah pengeluaran adalah dengan menghubungkan id sesuai tabel
+![](assets/gajah2/3.png)
