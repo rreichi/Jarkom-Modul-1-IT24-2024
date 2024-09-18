@@ -78,3 +78,7 @@
 4. Tabel yang dimodif adalah dari query `UPDATE` dan `DELETE`
 5. Melihat barang pembelian dan jumlah pengeluaran adalah dengan menghubungkan id sesuai tabel
 ![](assets/gajah2/3.png)
+
+## Rizznet
+1. Saya melihat 'sus' disini
+![](assets/rizzset/1.jpg)
