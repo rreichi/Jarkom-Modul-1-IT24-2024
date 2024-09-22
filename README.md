@@ -134,4 +134,4 @@ selanjutnya saya decode dari Base64
 ![](assets/22/4.png)
 
 ## Baby Hengker
-![](assets/baby hengker/1.jpg)
+![](assets/baby-hengker/1.jpg)
