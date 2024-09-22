@@ -132,3 +132,6 @@ selanjutnya saya decode dari Base64
 4. Berdasarkan clue yang diberikan "noko.py" lakukan decrypt dari input angka binary, dengan XOR key "NUN" (saya ubah jadi hex) yang berasal dari gambar.
 ![](assets/22/3.png)
 ![](assets/22/4.png)
+
+## Baby Hengker
+![](assets/baby hengker/1.jpg)
